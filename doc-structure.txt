@@ -1,0 +1,11 @@
+root/
+├── docs/
+│   ├── project-plan-and-status.md
+│   ├── two-week-plan.md
+│   ├── long-term-plan.md
+│   ├── content-categories.md
+│   ├── planning-execution-growth.md
+│   ├── journal.md            
+│   └── journal/
+│       └── entry-001.md      
+└── index.md
